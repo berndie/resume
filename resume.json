@@ -1,0 +1,596 @@
+{
+  "basics": {
+    "name": "Bernd Accou",
+    "label": "Postdoctoral Researcher",
+    "image": "https://gbiomed.kuleuven.be/english/research/50000666/50000672/people/members/00114712/@@images/person_photo/thumb",
+    "email": "bernd.accou@kuleuven.be",
+    "phone": "",
+    "url": "https://scholar.google.com/citations?user=1IkB8g4AAAAJ",
+    "summary": "Postdoctoral researcher at KU Leuven applying deep learning to neural and speech signals. Built the field's largest public speech-evoked EEG dataset (SparrKULee: 168 hours, 85 participants) and the VLAAI EEG-to-speech decoding network; co-organized two international grand challenges (ICASSP 2023 & 2024, 200+ teams combined) and was part of the KU Leuven team that won the NeurIPS 2025 EEG Foundation Challenge. Now extends this work into multilingual, speech-based Alzheimer's disease detection and fMRI signal processing. PhD in Biomedical Sciences (KU Leuven, 2023). 595+ citations, h-index 12 (Google Scholar, Aug 2026).",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Rillaar",
+      "countryCode": "BE",
+      "region": "Flanders"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Bernd Accou",
+        "url": "https://www.linkedin.com/in/bernd-accou-8a901514b/"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Bernd Accou",
+        "url": "https://scholar.google.com/citations?user=1IkB8g4AAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0002-3758-5968",
+        "url": "https://orcid.org/0000-0002-3758-5968"
+      },
+      {
+        "network": "GitHub",
+        "username": "berndie",
+        "url": "https://github.com/berndie"
+      },
+      {
+        "network": "KU Leuven Research Profile",
+        "username": "Bernd Accou",
+        "url": "https://www.kuleuven.be/wieiswie/en/person/00114712"
+      },
+      {
+        "network": "dblp",
+        "username": "Bernd Accou",
+        "url": "https://dblp.org/pid/206/6175.html"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "KU Leuven — Research Groups ExpORL (Dept. of Neurosciences) & PSI (Dept. of Electrical Engineering, ESAT) & Research Group for Neurorehabilitation (Dept. of Rehabilitation Sciences)",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.kuleuven.be/wieiswie/en/person/00114712",
+      "startDate": "2023-12-04",
+      "endDate": "",
+      "summary": "Continuing research on deep learning for neural and speech signal processing, multilingual clinical speech AI, Oxcytocin fMRI analysis and co-leading a new KU Leuven-funded project on embodied listening.",
+      "highlights": [
+        "Developed and applied feature-extraction pipelines and multilingual machine learning / deep learning models for Alzheimer's disease detection from speech.",
+        "Co-promotor (project co-lead) on 'Objective measures of embodied listening' (KU Leuven, 02/10/2023 - 28/07/2027).",
+        "Co-supervising 2 PhD students: one on embodied listening as an objective, multidimensional measure of listening engagement, and one on 'Oxytocin as a Novel Therapeutic Option for Autism: An Exploration of Neuroscientific, Biological, and Patient Perspectives.'",
+        "Member of the KU Leuven EEG Decoding Team that won the NeurIPS 2025 EEG Foundation Challenge ('From Cross-Task to Cross-Subject EEG Decoding'), competing against 1,000+ international teams on the HBN-EEG dataset (3,000+ participants); results presented at NeurIPS 2025, San Diego.",
+        "Corresponding author, 'Contrastive representation learning with transformers for robust auditory EEG decoding' (Scientific Reports, 2025) — applies self-supervised contrastive learning and transformer networks to EEG decoding.",
+        "Co-authored 'A Multi-decoder Neural Tracking Method for Accurately Predicting Speech Intelligibility' (2026), improving objective speech-reception-threshold estimation for populations unable to complete behavioral tests.",
+        "Co-authored 'In Sync With Sound' (2025), proposing interpersonal synchronization as an objective measure of listening engagement."
+      ]
+    },
+    {
+      "name": "KU Leuven — Research Groups ExpORL (Dept. of Neurosciences) & PSI (Dept. of Electrical Engineering, ESAT)",
+      "position": "PhD Researcher",
+      "url": "https://www.kuleuven.be/wieiswie/en/person/00114712",
+      "startDate": "2018-10-01",
+      "endDate": "2023-12-04",
+      "summary": "Doctoral research using machine learning and deep learning to model speech processing and perception in the brain, for applications such as automated hearing diagnostics. Thesis: 'Deep neural networks as a model of speech perception' (promotor: Prof. Tom Francart; co-promotor: Prof. Hugo Van hamme).",
+      "highlights": [
+        "Designed the VLAAI deep neural network for decoding the speech envelope from EEG — the first decoding model shown to work across multiple datasets collected by different research groups, and fine-tunable to individual subjects, substantially outperforming prior subject-specific decoders.",
+        "First to predict speech intelligibility from the EEG of unseen subjects in a non-linear classification paradigm, removing the need for extra subject-specific EEG collection (a reduction of 15+ minutes in clinical testing time).",
+        "Conceived, collected, and released SparrKULee, a public dataset of 168 hours of speech-evoked EEG from 85 participants — larger than all comparable public datasets combined — now used as a training/benchmarking resource across the field.",
+        "Co-organized the ICASSP 2023 Auditory EEG Challenge (42 international teams) and the ICASSP 2024 Auditory EEG Challenge (166 international teams).",
+        "Co-supervised 7 completed MSc theses (2020-2022), 1 ongoing PhD student (Biomedical Sciences), 1 ongoing Medical Sciences student, 1 ongoing Audiology student, and ~11 job students assisting with EEG data collection.",
+        "Awarded the PhD Quick Pitch Award (Neurotech Leuven, 2022) and the Best Impact Award (CogHear 2023) for organizing the ICASSP 2023 Grand Challenge."
+      ]
+    },
+    {
+      "name": "ExpORL, KU Leuven",
+      "position": "Job Student",
+      "url": "exporl.gbiomed.kuleuven.be/eddy",
+      "startDate": "2017-04-04",
+      "endDate": "2018-08-01",
+      "summary": "Wrote software to track research subjects across studies at ExpORL.",
+      "highlights": []
+    },
+    {
+      "name": "KU Leuven",
+      "position": "Lab Assistant",
+      "url": "",
+      "startDate": "2017-10-01",
+      "endDate": "2017-12-31",
+      "summary": "Supervised lab sessions for the course 'Object-oriented programming and databases' (T2OGPD).",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "KU Leuven",
+      "url": "https://www.kuleuven.be",
+      "area": "Biomedical Sciences",
+      "studyType": "PhD",
+      "startDate": "2018-10-01",
+      "endDate": "2023-12-04",
+      "score": "",
+      "courses": [
+        "Thesis: 'Deep neural networks as a model of speech perception'",
+        "Promotor: Prof. Tom Francart; Co-promotor: Prof. Hugo Van hamme"
+      ]
+    },
+    {
+      "institution": "KU Leuven",
+      "url": "https://www.kuleuven.be",
+      "area": "Engineering Technology (Electronics/ICT)",
+      "studyType": "Master of Engineering Technology",
+      "startDate": "",
+      "endDate": "2018",
+      "score": "Magna cum laude",
+      "courses": [
+        "Thesis: 'Detection of pathologies with machine learning'"
+      ]
+    },
+    {
+      "institution": "KU Leuven",
+      "url": "https://www.kuleuven.be",
+      "area": "Engineering Technology (Electronics/ICT)",
+      "studyType": "Bachelor of Engineering Technology",
+      "startDate": "",
+      "endDate": "2017",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Winner, NeurIPS 2025 EEG Foundation Challenge",
+      "date": "2025-12",
+      "awarder": "NeurIPS 2025 Competition Track",
+      "summary": "Member of the KU Leuven EEG Decoding Team, which won the 2025 EEG Foundation Challenge ('From Cross-Task to Cross-Subject EEG Decoding') against 1,000+ international teams on the HBN-EEG dataset. Invited to present at the Foundation Models for the Brain and Body NeurIPS Workshop and the NeurIPS competition track session, San Diego"
+    },
+    {
+      "title": "Best Impact Award",
+      "date": "2023-06-12",
+      "awarder": "CogHear 2023 organizers",
+      "summary": "Awarded for the best impact on the scientific field in 2023, for co-organizing the ICASSP 2023 Grand Challenge: Auditory EEG Challenge."
+    },
+    {
+      "title": "PhD Quick Pitch Award",
+      "date": "2022-04-27",
+      "awarder": "Neurotech Leuven (MINDSEED event)",
+      "summary": "Won the PhD Quick Pitch competition, pitching doctoral research to a general audience in 5 minutes."
+    }
+  ],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "A Multi-decoder Neural Tracking Method for Accurately Predicting Speech Intelligibility",
+      "publisher": "arXiv preprint, arXiv:2602.03624",
+      "releaseDate": "2026-02",
+      "url": "https://arxiv.org/abs/2602.03624",
+      "summary": "With R. Sonck, T. Francart, J. Vanthornhout. Introduces a multi-decoder EEG method to predict speech reception thresholds (SRTs), improving accuracy and robustness of objective speech-intelligibility assessment for populations unable to complete behavioral tests."
+    },
+    {
+      "name": "Contrastive representation learning with transformers for robust auditory EEG decoding",
+      "publisher": "Scientific Reports, 15(1), 28744",
+      "releaseDate": "2025-08-06",
+      "url": "https://doi.org/10.1038/s41598-025-13646-4",
+      "summary": "With L. Bollens (co-first author), H. Van hamme, T. Francart (corresponding authors alongside Bernd). Applies contrastive self-supervised learning and transformer networks to learn robust EEG representations; evaluated on match-mismatch classification and envelope-decoding tasks from the ICASSP 2023 Challenge."
+    },
+    {
+      "name": "In Sync With Sound: Interpersonal synchronization as an objective measure of listening engagement",
+      "publisher": "bioRxiv (preprint)",
+      "releaseDate": "2025-02-26",
+      "url": "https://doi.org/10.1101/2025.02.26.639799",
+      "summary": "With L. Lambrechts, J. Vanthornhout, B. Boets, T. Francart. Proposes interpersonal (brain/body) synchronization as an objective, multidimensional measure of listening engagement, addressing the limits of purely behavioral assessments."
+    },
+    {
+      "name": "Auditory EEG Decoding Challenge for ICASSP 2024",
+      "publisher": "IEEE Open Journal of Signal Processing, 6, 478-488",
+      "releaseDate": "2025-01",
+      "url": "https://doi.org/10.1109/OJSP.2025.3534122",
+      "summary": "With L. Bollens, C. Puffay, J. Vanthornhout, H. Van hamme, T. Francart. Full description of the ICASSP 2024 Signal Processing Grand Challenge on auditory EEG decoding (166 participating teams)."
+    },
+    {
+      "name": "Classifying coherent versus nonsense speech perception from EEG using linguistic speech features",
+      "publisher": "Scientific Reports, 14(1), 18922",
+      "releaseDate": "2024",
+      "url": "https://www.nature.com/articles/s41598-024-69568-0",
+      "summary": "With C. Puffay, J. Vanthornhout, M. Gillis, P. De Clercq, H. Van hamme, T. Francart. Uses linguistic speech features to classify EEG responses to coherent versus nonsensical speech."
+    },
+    {
+      "name": "Classifying native versus foreign speech perception from EEG using linguistic speech features",
+      "publisher": "bioRxiv (preprint)",
+      "releaseDate": "2024-04-11",
+      "url": "https://doi.org/10.1101/2024.04.11.589055",
+      "summary": "With C. Puffay, J. Vanthornhout, M. Gillis, P. De Clercq, H. Van hamme, T. Francart. Examines whether EEG-derived linguistic tracking distinguishes perception of native versus foreign speech."
+    },
+    {
+      "name": "SparrKULee: A Speech-Evoked Auditory Response Repository from KU Leuven, Containing the EEG of 85 Participants",
+      "publisher": "Data (MDPI), 9(8), 94; dataset DOI 10.48804/K3VSND",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.48804/K3VSND",
+      "summary": "With L. Bollens, M. Gillis, W. Verheijen, H. Van hamme, T. Francart. Journal version of the SparrKULee dataset paper: 168 hours of speech-evoked EEG from 85 participants, larger than all comparable public datasets combined."
+    },
+    {
+      "name": "Auditory EEG Decoding Challenge for ICASSP 2023",
+      "publisher": "IEEE Open Journal of Signal Processing, 5, 652-661",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1109/OJSP.2024.3376296",
+      "summary": "With M. Jalilpour Monesi, L. Bollens, J. Vanthornhout, H. Van hamme, T. Francart. Full description of the ICASSP 2023 Signal Processing Grand Challenge on auditory EEG decoding (42 participating teams)."
+    },
+    {
+      "name": "Robust neural tracking of linguistic speech representations using a convolutional neural network",
+      "publisher": "Journal of Neural Engineering, 20(4), 046040",
+      "releaseDate": "2023-08-30",
+      "url": "https://doi.org/10.1088/1741-2552/acf1ce",
+      "summary": "With C. Puffay, J. Vanthornhout, M. Gillis, H. Van hamme, T. Francart. Proposes a CNN-based approach for robustly tracking linguistic speech representations in EEG."
+    },
+    {
+      "name": "Relating EEG to continuous speech using deep neural networks: A review",
+      "publisher": "Journal of Neural Engineering, 20(4), 041003",
+      "releaseDate": "2023-08-03",
+      "url": "https://doi.org/10.1088/1741-2552/ace73f",
+      "summary": "With C. Puffay, L. Bollens, M. Jalilpour Monesi, J. Vanthornhout, H. Van hamme, T. Francart. Systematic review identifying methodological pitfalls in deep-learning studies relating EEG to continuous speech, aimed at improving reproducibility and statistical rigor in the field; 10+ citations within its first year."
+    },
+    {
+      "name": "Decoding of the speech envelope from EEG using the VLAAI deep neural network",
+      "publisher": "Scientific Reports, 13(1), 812",
+      "releaseDate": "2023-01-16",
+      "url": "https://doi.org/10.1038/s41598-022-27332-2",
+      "summary": "With J. Vanthornhout, H. Van hamme, T. Francart. Introduces the VLAAI network — the first EEG speech-decoding model shown to generalize across datasets from multiple research groups and to be fine-tuned per subject, outperforming state-of-the-art subject-independent models by 52% (median Pearson r = 0.19, p < 0.001)."
+    },
+    {
+      "name": "SparrKULee: A Speech-evoked Auditory Response Repository of the KU Leuven, containing EEG of 85 participants",
+      "publisher": "bioRxiv (preprint)",
+      "releaseDate": "2023-07-24",
+      "url": "https://doi.org/10.1101/2023.07.24.550310",
+      "summary": "Preprint version of the SparrKULee dataset paper (see Data, 2024 journal version above)."
+    },
+    {
+      "name": "Self-supervised enhancement of stimulus-evoked brain response data",
+      "publisher": "arXiv preprint, arXiv:2302.01924",
+      "releaseDate": "2023-02",
+      "url": "https://arxiv.org/abs/2302.01924",
+      "summary": "With H. Van hamme, T. Francart. Explores self-supervised methods to enhance and denoise stimulus-evoked brain response (EEG) data."
+    },
+    {
+      "name": "Deep neural networks as a model of speech perception",
+      "publisher": "PhD Dissertation, KU Leuven",
+      "releaseDate": "2023-12-04",
+      "url": "https://lirias.kuleuven.be/retrieve/2e05e614-94cf-4435-9ada-bd0010d2d1b2",
+      "summary": "Doctoral dissertation. Promotor: Tom Francart; co-promotor: Hugo Van hamme."
+    },
+    {
+      "name": "ICASSP 2023 Auditory EEG Decoding Challenge",
+      "publisher": "Proc. ICASSP 2023, 1-2",
+      "releaseDate": "2023",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10468639",
+      "summary": "With L. Bollens, M. Jalilpour Monesi, J. Vanthornhout, H. Van hamme, T. Francart. Challenge summary paper presented at ICASSP 2023."
+    },
+    {
+      "name": "Predicting speech intelligibility from EEG in a non-linear classification paradigm",
+      "publisher": "Journal of Neural Engineering, 18(6), 066008",
+      "releaseDate": "2021-11-15",
+      "url": "https://doi.org/10.1088/1741-2552/ac33e9",
+      "summary": "With M. Jalilpour Monesi, H. Van hamme, T. Francart. First model to predict speech intelligibility from the EEG of unseen subjects, removing the need for additional per-subject EEG collection in clinical hearing testing."
+    },
+    {
+      "name": "Extracting different levels of speech information from EEG using an LSTM-based model",
+      "publisher": "Proceedings Interspeech 2021, 526-530",
+      "releaseDate": "2021-08-30",
+      "url": "https://doi.org/10.21437/Interspeech.2021-336",
+      "summary": "With M. Jalilpour Monesi, T. Francart, H. Van hamme."
+    },
+    {
+      "name": "Modeling the relationship between acoustic stimulus and EEG with a dilated convolutional neural network",
+      "publisher": "Proc. 28th European Signal Processing Conference (EUSIPCO 2020), 1175-1179",
+      "releaseDate": "2021-01-18",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9287417",
+      "summary": "With M. Jalilpour Monesi, J. Montoya-Martínez, H. Van hamme, T. Francart."
+    },
+    {
+      "name": "An LSTM based architecture to relate speech stimulus to EEG",
+      "publisher": "Proc. ICASSP 2020, 941-945",
+      "releaseDate": "2020",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9054000",
+      "summary": "With M. Jalilpour Monesi, J. Montoya-Martínez, T. Francart, H. Van hamme."
+    },
+    {
+      "name": "Matching EEG to speech envelope segments",
+      "publisher": "Leuven AI, Irish College, KU Leuven",
+      "releaseDate": "2020",
+      "url": "",
+      "summary": "With M. Jalilpour Monesi, H. Van hamme, T. Francart."
+    },
+    {
+      "name": "Improved decoding of the speech envelope using a deep neural network",
+      "publisher": "7th International Conference on Auditory Cortex, Magdeburg, Germany",
+      "releaseDate": "2022",
+      "url": "https://github.com/berndie/icac2022",
+      "summary": "With J. Vanthornhout, H. Van hamme, T. Francart."
+    },
+    {
+      "name": "Relating linguistic features of speech with EEG using a dilated convolutional network",
+      "publisher": "Society for Neuroscience Annual Meeting (Neuroscience 2022), San Diego, CA",
+      "releaseDate": "2022",
+      "url": "",
+      "summary": "C. Puffay, J. Vanthornhout, M. Gillis, B. Accou, H. Van hamme, T. Francart."
+    },
+    {
+      "name": "Classifying match/mismatch between EEG and stimulus using deep learning",
+      "publisher": "ARCHES 2019, Paris, France; also presented at the 2nd Auditory EEG Signal Processing Symposium (AESoP 2019), Leuven, Belgium",
+      "releaseDate": "2019",
+      "url": "",
+      "summary": "With M. Jalilpour Monesi, H. Van hamme, T. Francart."
+    }
+  ],
+  "skills": [
+    {
+      "name": "AI, Deep Learning & Machine Learning",
+      "level": "Advanced",
+      "keywords": [
+        "Self-Supervised Learning",
+        "Contrastive Learning",
+        "Time-series modeling, (LSTMs, CNNs, Transformers)",
+        "Speech-to-text (ASR) systems & feature extraction (MFCCs, filterbanks, spectrograms)",
+        "Agents"
+      ]
+    },
+    {
+      "name": "Biosignal Processing and analysis",
+      "level": "Advanced",
+      "keywords": [
+        "EEG",
+        "ECG",
+        "PPG",
+        "fMRI",
+        "Pupillometry"
+      ]
+    },
+    {
+      "name": "Data science and visualization",
+      "level": "Advanced",
+      "keywords": [
+        "Python (NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn)",
+        "R (tidyverse, ggplot2, lme4, lmerTest)"
+      ]
+    },
+    {
+      "name": "Research Data & Open Science",
+      "level": "Advanced",
+      "keywords": [
+        "Large-scale dataset design & curation",
+        "Benchmark creation",
+        "Data pipelines",
+        "Open-source release & documentation"
+      ]
+    },
+    {
+    "name": "Research Leadership & Communication",
+    "level": "Advanced",
+    "keywords": [
+        "International challenge organization",
+        "Grant / project co-leadership (co-promotor)",
+        "PhD & MSc supervision",
+        "Scientific writing & peer review",
+        "Public science communication"
+    ]
+    },
+    {
+        "name": "Software Development & Engineering",
+        "level": "Advanced",
+        "keywords": [
+            "Python (NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch)",
+            "R (tidyverse, ggplot2, lme4, lmerTest)",
+            "C/C++",
+            "Java",
+            "Labview",
+            "Git",
+            "Linux",
+            "Docker",
+            "Kubernetes",
+            "Web development (HTML/CSS/JS/XML)",
+            "Database design & management (SQL, PostgreSQL, MySQL)",
+            "Software architecture & design patterns"
+        ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent — professional & academic working proficiency"
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate — conversational and reading proficiency"
+    },
+    {
+      "language": "German",
+      "fluency": "Basic — limited conversational and reading proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Biomedical deep learning",
+        "EEG-speech decoding",
+        "Listening engagement",
+        "Biosignals",
+        "Signal processing",
+        "Speech recognition",
+        "Timeseries AI",
+        "Multilingual clinical speech AI"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Objective Measures of Embodied Listening",
+      "startDate": "2023-10-02",
+      "endDate": "2027-07-28",
+      "description": "KU Leuven-funded research project; Bernd serves as co-promotor (project co-lead) and co-supervises a PhD student.",
+      "highlights": [
+        "Developing objective, physiological/behavioral measures of embodied listening and listening engagement.",
+        "Related output: 'In Sync With Sound: Interpersonal synchronization as an objective measure of listening engagement' (2025)."
+      ],
+      "url": "https://research.kuleuven.be/portal/en/project/3M230348"
+    },
+    
+    {
+      "name": "Multilingual Speech-Based Alzheimer's Disease Detection",
+      "startDate": "",
+      "endDate": "",
+      "description": "Developed and applied feature-extraction pipelines and multilingual machine learning / deep learning models to detect Alzheimer's disease from spontaneous speech across languages. (Provided directly by Bernd — could not be independently located via public search as of Aug 2026; likely recent/in-progress or industry work. Verify exact framing, dates, and any confidentiality constraints before using in an application.)",
+      "highlights": [],
+      "url": ""
+    },
+    {
+        "name": "OBIDE: Oxytocin Brain Imaging Data Exchange Initiative",
+        "startDate": "04/11/2025",
+        "endDate": "",
+        "description": "Collection and analysis of an open fMRI dataset to investigate the effects of oxytocin on brain activity and connectivity.",
+        "highlights": [
+            "Co-supervising a PhD student on the OBIDE project, investigating oxytocin as a potential therapeutic option for autism.",
+            "Developing data pipelines and analysis methods for fMRI data.",
+            "Promoting open science and data sharing in the field of neuroimaging."
+        ],
+        "url": "https://gbiomed.kuleuven.be/english/research/50000743/research/research-units/enrgy/obide"
+    },
+    {
+      "name": "NeurIPS 2025 EEG Foundation Challenge",
+      "startDate": "2025",
+      "endDate": "2025",
+      "description": "International EEG decoding competition (NeurIPS 2025 Competition Track), built on the HBN-EEG dataset (3,000+ participants across 6 cognitive tasks).",
+      "highlights": [
+        "Member of the winning KU Leuven EEG Decoding Team.",
+        "ExpORL sub-team (Bernd's group) developed a lightweight transformer decoder for Challenge 2 (psychopathology / externalizing-factor prediction).",
+        "Results presented at the Foundation Models for the Brain and Body NeurIPS Workshop and the NeurIPS competition track session, San Diego."
+      ],
+      "url": "https://eeg2025.github.io/"
+    },
+    {
+      "name": "ICASSP Auditory EEG Decoding Grand Challenges (2023 & 2024)",
+      "startDate": "2022",
+      "endDate": "2024",
+      "description": "Co-organized two consecutive international grand challenges on auditory EEG decoding as part of the Signal Processing Grand Challenges track at ICASSP.",
+      "highlights": [
+        "ICASSP 2023: 42 participating teams worldwide.",
+        "ICASSP 2024: 166 participating teams worldwide.",
+        "Received the Best Impact Award (CogHear 2023) for the 2023 edition."
+      ],
+      "url": "https://ieeexplore.ieee.org/document/10854651"
+    },
+    {
+      "name": "SparrKULee Dataset",
+      "startDate": "2021",
+      "endDate": "2023",
+      "description": "Public benchmark dataset of speech-evoked EEG, created and released during Bernd's PhD.",
+      "highlights": [
+        "168 hours of EEG from 85 participants — larger than all comparable public datasets combined.",
+        "Widely used as a training/benchmarking resource for auditory EEG decoding research.",
+        "Dataset DOI: 10.48804/K3VSND."
+      ],
+      "url": "https://doi.org/10.48804/K3VSND"
+    },
+    {
+      "name": "VLAAI — Speech Envelope Decoding Network",
+      "startDate": "2021",
+      "endDate": "2022",
+      "description": "Deep neural network (Python/TensorFlow) for decoding the speech envelope from EEG.",
+      "highlights": [
+        "First subject-independent decoder shown to generalize across datasets from multiple research groups.",
+        "Fine-tunable per subject, outperforming prior subject-specific decoders by 52% relative to the linear baseline.",
+        "Open-sourced with pre-trained models at github.com/exporl/vlaai."
+      ],
+      "url": "https://github.com/exporl/vlaai"
+    },
+    {
+      "name": "EEG Decoding of Speech Intelligibility",
+      "startDate": "2021",
+      "endDate": "2023",
+      "description": "Developed methods to predict speech intelligibility from EEG in a non-linear classification paradigm.",
+      "highlights": [
+        "First model to predict speech intelligibility from the EEG of unseen subjects, removing the need for additional per-subject EEG collection in clinical hearing testing.",
+        "Related output: 'Predicting speech intelligibility from EEG in a non-linear classification paradigm' (Journal of Neural Engineering, 2021)."
+      ],
+      "url": "https://iopscience.iop.org/article/10.1088/1741-2552/ac33e9/meta"
+    },
+    {
+      "name": "Home Kubernetes Cluster",
+      "description": "Self-hosted Kubernetes cluster running a home media server and home automation infrastructure.",
+      "highlights": [
+        "Operate and maintain a Kubernetes cluster on home infrastructure",
+        "Deploy and manage self-hosted media and home automation services",
+        "Implement CI/CD pipelines for home services",
+        "Ensure security and reliability of home network services"
+      ],
+      "keywords": [
+        "Kubernetes",
+        "NixOS",
+        "Docker",
+        "Home Automation",
+        "Self-hosting"
+      ]
+    }
+  ],
+  "supervision": {
+    "note": "Non-standard section (not part of the core jsonresume.org schema) added because supervision/mentoring is central to this profile. Safe to remove, rename, or fold into 'work' highlights when tailoring for a specific application.",
+    "currentPhDSupervision": [
+      {
+        "role": "PhD Co-supervisor (co-promotor)",
+        "topic": "Objective measures of embodied listening.",
+        "institution": "KU Leuven",
+        "years": "2023 - present"
+      },
+      {
+        "role": "PhD Co-supervisor",
+        "topic": "Oxytocin as a Novel Therapeutic Option for Autism: An Exploration of Neuroscientific, Biological, and Patient Perspectives",
+        "institution": "KU Leuven",
+        "years": "2026 - ongoing"
+      }
+    ],
+    "historicalSupervisionRecord": {
+      "mscTheses": [
+        "A. Algoet — 'Invloed van verschillende parameters op de neurale tracking van de spraakomhullende' (Influence of different parameters on the neural tracking of the speech envelope), 2020",
+        "I. Bachiri — 'Match/Mismatch Prediction Between Speech Stimuli and EEG Using Deep Transfer Learning', 2020",
+        "T. Martens — 'Artificiële neurale netwerken als voorverwerker voor EEG data' (Artificial neural networks as preprocessor for EEG data), 2020",
+        "M.E. Kazanç — 'Decoding speech from the brain using deep learning combined with linear preprocessing', 2020",
+        "B. Kempen — 'Decoding Auditory Attention from the Brain with a Dilated Convolutional Neural Network', 2021",
+        "R. Vaishampayan — 'Decoding speech from the brain using deep learning - transfer learning for individualisation', 2021",
+        "K. Cloes — 'Het effect van verschillende stimuli op een objectieve maat van spraakverstaanbaarheid' (The effect of different stimuli on an objective measure of speech understanding), 2022",
+        "P. Dekeyzer -  Embodied listening: Komt synchronisatie overeen met de luisterervaring? (Embodied listening: Does synchronization correspond to the listening experience?), 2025",
+        "W. Chavarria De Koker - Pupildilatatiereactie op auditieve stimuli als objectieve maat van bewustzijn (P, 2025",
+        "M. Vandenbruane - De link tussen luisterengagement en auditieve aandacht (The link between listening engagement and auditory attention), 2026",
+        "1 Msc Audilogy thesis ongoing"
+      ],
+      "jobStudents": [
+        "11 students supervised, assisting with EEG measurements"
+      ]
+    }
+  },
+  "references": [],
+  "meta": {
+    "canonical": "https://jsonresume.org/schema/",
+    "version": "v1.0.0",
+    "lastModified": "2026-08-22",
+    "notes": "MASTER RESUME — compiled from Bernd Accou's uploaded CV plus public research.",
+    "themeOptions": {
+      "sections": [
+        "work",
+        "skills",
+        "projects",
+        "education",
+        "languages",
+        "volunteer",
+        "awards",
+        "certificates",
+        "interests",
+        "references",
+        "publications"
+
+      ]
+    }
+  }
+}
