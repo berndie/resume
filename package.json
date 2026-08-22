@@ -1,0 +1,16 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "In [jsonresume.org](jsonresume.org) format. Visit the live resume [here](berndie.github.io/resume)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-even": "github:berndie/jsonresume-theme-even#main",
+    "resumed": "^6.1.0"
+  }
+}

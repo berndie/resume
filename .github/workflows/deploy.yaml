@@ -32,9 +32,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Install custom Even theme
-        run: npm install --no-save github:berndie/jsonresume-theme-even#main
-
       #- name: Validate resume
       #  run: npx resumed validate resume.json
 
