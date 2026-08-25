@@ -5,7 +5,7 @@
     "image": "https://gbiomed.kuleuven.be/english/research/50000666/50000672/people/members/00114712/@@images/person_photo/thumb",
     "email": "bernd.accou@kuleuven.be",
     "phone": "",
-    "url": "https://scholar.google.com/citations?user=1IkB8g4AAAAJ",
+    "url": "berndie.github.io/resume",
     "summary": "Postdoctoral researcher at KU Leuven applying deep learning to neural and speech signals. Built the field's largest public speech-evoked EEG dataset (SparrKULee: 168 hours, 85 participants) and the VLAAI EEG-to-speech decoding network; co-organized two international grand challenges (ICASSP 2023 & 2024, 200+ teams combined) and was part of the KU Leuven team that won the NeurIPS 2025 EEG Foundation Challenge. Now extends this work into multilingual, speech-based Alzheimer's disease detection and fMRI signal processing. PhD in Biomedical Sciences (KU Leuven, 2023). 595+ citations, h-index 12 (Google Scholar, Aug 2026).",
     "location": {
       "address": "",
@@ -326,6 +326,8 @@
       "name": "AI, Deep Learning & Machine Learning",
       "level": "Advanced",
       "keywords": [
+        "Pytorch",
+        "Tensorflow",
         "Self-Supervised Learning",
         "Contrastive Learning",
         "Time-series modeling, (LSTMs, CNNs, Transformers)",
@@ -345,11 +347,15 @@
       ]
     },
     {
-      "name": "Data science and visualization",
+      "name": "Progr",
       "level": "Advanced",
       "keywords": [
         "Python (NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn)",
-        "R (tidyverse, ggplot2, lme4, lmerTest)"
+        "R (tidyverse, ggplot2, lme4, lmerTest)",
+        "Jupyter lab/notebooks",
+        "Matplotlib",
+        "Seaborn",
+        "Plotly"
       ]
     },
     {
@@ -386,8 +392,9 @@
             "Linux",
             "Docker",
             "Kubernetes",
+            "CI/CD pipelines (Github Actions, Jenkins, Gitlab CI)",
             "Web development (HTML/CSS/JS/XML)",
-            "Database design & management (SQL, PostgreSQL, MySQL)",
+            "Database design & management (SQL, PostgreSQL, MySQL, NoSQL)",
             "Software architecture & design patterns"
         ]
     }
@@ -535,6 +542,24 @@
       ]
     }
   ],
+  
+  "volunteer": [
+    {
+      "name": "Resident Advisor",
+      "location": "Residence 1 / Residence 2",
+      "startDate": "2018-09",
+      "endDate": "2022-08",
+      "summary": "Supported residents across two student residences, serving communities of approximately 130 and 80 residents.",
+      "highlights": [
+        "Managed residents' concerns and provided guidance, referrals, and information on housing and related services.",
+        "Coordinated kitchen cleaning schedules and communicated housing check-in and check-out procedures.",
+        "Organized community events within a fixed budget to encourage interaction and strengthen social cohesion among residents.",
+        "Acted as a first point of contact for residents, helping resolve day-to-day issues and directing them to the appropriate resources.",
+        "Adapted communication and support to the needs of diverse resident communities across two residences."
+      ]
+    }
+  ],
+
   "supervision": {
     "note": "Non-standard section (not part of the core jsonresume.org schema) added because supervision/mentoring is central to this profile. Safe to remove, rename, or fold into 'work' highlights when tailoring for a specific application.",
     "currentPhDSupervision": [
@@ -590,7 +615,12 @@
         "references",
         "publications"
 
-      ]
+      ],
+      "scaleRatio": 1.25,
+      "scale0": "1.25rem",
+      "sectionMargin": "1.0rem",
+      "sideMaxWidth": "10em",
+      "contentMaxWidth": "80em"
     }
   }
 }
