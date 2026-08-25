@@ -27,9 +27,13 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
 
       - name: Install dependencies
-        run: npm install --no-audit --no-fund
+        run: npm ci
+
+      - name: Update theme
+        run: npm install github:berndie/jsonresume-theme-even#main
         
       #- name: Validate resume
       #  run: npx resumed validate resume.json
