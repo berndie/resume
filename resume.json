@@ -3,9 +3,9 @@
     "name": "Bernd Accou",
     "label": "Postdoctoral Researcher",
     "image": "https://gbiomed.kuleuven.be/english/research/50000666/50000672/people/members/00114712/@@images/person_photo/thumb",
-    "email": "bernd.accou@kuleuven.be",
+    "email": "berndaccou@hotmail.com",
     "phone": "",
-    "url": "berndie.github.io/resume",
+    "url": "https://berndie.github.io/resume",
     "summary": "Postdoctoral researcher at KU Leuven applying deep learning to neural and speech signals. Built the field's largest public speech-evoked EEG dataset (SparrKULee: 168 hours, 85 participants) and the VLAAI EEG-to-speech decoding network; co-organized two international grand challenges (ICASSP 2023 & 2024, 200+ teams combined) and was part of the KU Leuven team that won the NeurIPS 2025 EEG Foundation Challenge. Now extends this work into multilingual, speech-based Alzheimer's disease detection and fMRI signal processing. PhD in Biomedical Sciences (KU Leuven, 2023). 595+ citations, h-index 12 (Google Scholar, Aug 2026).",
     "location": {
       "address": "",
@@ -171,7 +171,7 @@
       "publisher": "Scientific Reports, 15(1), 28744",
       "releaseDate": "2025-08-06",
       "url": "https://doi.org/10.1038/s41598-025-13646-4",
-      "summary": "With L. Bollens (co-first author), H. Van hamme, T. Francart (corresponding authors alongside Bernd). Applies contrastive self-supervised learning and transformer networks to learn robust EEG representations; evaluated on match-mismatch classification and envelope-decoding tasks from the ICASSP 2023 Challenge."
+      "summary": "With L. Bollens (co-first author), H. Van hamme, T. Francart. Applies contrastive self-supervised learning and transformer networks to learn robust EEG representations; evaluated on match-mismatch classification and envelope-decoding tasks from the ICASSP 2023 Challenge."
     },
     {
       "name": "In Sync With Sound: Interpersonal synchronization as an objective measure of listening engagement",
@@ -347,7 +347,7 @@
       ]
     },
     {
-      "name": "Progr",
+      "name": "Data science",
       "level": "Advanced",
       "keywords": [
         "Python (NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn)",
@@ -437,7 +437,7 @@
       "name": "Objective Measures of Embodied Listening",
       "startDate": "2023-10-02",
       "endDate": "2027-07-28",
-      "description": "KU Leuven-funded research project; Bernd serves as co-promotor (project co-lead) and co-supervises a PhD student.",
+      "description": "Research project; multimodal biosignal feature extraction and modeling. Co-supervision of a PhD student.",
       "highlights": [
         "Developing objective, physiological/behavioral measures of embodied listening and listening engagement.",
         "Related output: 'In Sync With Sound: Interpersonal synchronization as an objective measure of listening engagement' (2025)."
@@ -449,7 +449,7 @@
       "name": "Multilingual Speech-Based Alzheimer's Disease Detection",
       "startDate": "",
       "endDate": "",
-      "description": "Developed and applied feature-extraction pipelines and multilingual machine learning / deep learning models to detect Alzheimer's disease from spontaneous speech across languages. (Provided directly by Bernd — could not be independently located via public search as of Aug 2026; likely recent/in-progress or industry work. Verify exact framing, dates, and any confidentiality constraints before using in an application.)",
+      "description": "Developed and applied feature-extraction pipelines and multilingual machine learning / deep learning models to detect Alzheimer's disease from spontaneous speech across languages.",
       "highlights": [],
       "url": ""
     },
@@ -472,7 +472,7 @@
       "description": "International EEG decoding competition (NeurIPS 2025 Competition Track), built on the HBN-EEG dataset (3,000+ participants across 6 cognitive tasks).",
       "highlights": [
         "Member of the winning KU Leuven EEG Decoding Team.",
-        "ExpORL sub-team (Bernd's group) developed a lightweight transformer decoder for Challenge 2 (psychopathology / externalizing-factor prediction).",
+        "ExpORL sub-team developed a lightweight transformer decoder for Challenge 2 (psychopathology / externalizing-factor prediction).",
         "Results presented at the Foundation Models for the Brain and Body NeurIPS Workshop and the NeurIPS competition track session, San Diego."
       ],
       "url": "https://eeg2025.github.io/"
@@ -493,7 +493,7 @@
       "name": "SparrKULee Dataset",
       "startDate": "2021",
       "endDate": "2023",
-      "description": "Public benchmark dataset of speech-evoked EEG, created and released during Bernd's PhD.",
+      "description": "Public benchmark dataset of speech-evoked EEG.",
       "highlights": [
         "168 hours of EEG from 85 participants — larger than all comparable public datasets combined.",
         "Widely used as a training/benchmarking resource for auditory EEG decoding research.",
