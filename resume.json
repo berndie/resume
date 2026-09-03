@@ -56,12 +56,13 @@
       "endDate": "",
       "summary": "Continuing research on deep learning for neural and speech signal processing, multilingual clinical speech AI, Oxcytocin fMRI analysis and co-leading a new KU Leuven-funded project on embodied listening.",
       "highlights": [
-        "Developed and applied feature-extraction pipelines and multilingual machine learning / deep learning models for Alzheimer's disease detection from speech.",
+        "Developed and applied feature-extraction pipelines and multilingual machine learning / deep learning models (in Pytorch) for Alzheimer's disease detection from speech.",
         "Co-supervising 2 PhD students: one on embodied listening as an objective, multidimensional measure of listening engagement, and one on 'Oxytocin as a Novel Therapeutic Option for Autism: An Exploration of Neuroscientific, Biological, and Patient Perspectives.'",
         "Member of the KU Leuven EEG Decoding Team that won the NeurIPS 2025 EEG Foundation Challenge ('From Cross-Task to Cross-Subject EEG Decoding'), competing against 1,000+ international teams on the HBN-EEG dataset (3,000+ participants); results presented at NeurIPS 2025, San Diego.",
         "Corresponding author, 'Contrastive representation learning with transformers for robust auditory EEG decoding' (Scientific Reports, 2025) — applies self-supervised contrastive learning and transformer networks to EEG decoding.",
         "Co-authored 'A Multi-decoder Neural Tracking Method for Accurately Predicting Speech Intelligibility' (2026), improving objective speech-reception-threshold estimation for populations unable to complete behavioral tests.",
-        "Co-authored 'In Sync With Sound' (2025), proposing interpersonal synchronization as an objective measure of listening engagement."
+        "Co-authored 'In Sync With Sound' (2025), proposing interpersonal synchronization as an objective measure of listening engagement. Responsible for development of the EEG, ECG and EDA feature extraction pipelines, and co-developed the statistical analysis plan.",
+        "Participated in Foundations of Business Development (2024), gaining insights into entrepreneurship and innovation from a business perspective, complementing my research expertise."
       ]
     },
     {
@@ -72,11 +73,12 @@
       "endDate": "2023-12-04",
       "summary": "Doctoral research using machine learning and deep learning to model speech processing and perception in the brain, for applications such as automated hearing diagnostics. Thesis: 'Deep neural networks as a model of speech perception' (promotor: Prof. Tom Francart; co-promotor: Prof. Hugo Van hamme).",
       "highlights": [
-        "Designed the VLAAI deep neural network for decoding the speech envelope from EEG — the first decoding model shown to work across multiple datasets collected by different research groups, and fine-tunable to individual subjects, substantially outperforming prior subject-specific decoders.",
-        "First to predict speech intelligibility from the EEG of unseen subjects in a non-linear classification paradigm, removing the need for extra subject-specific EEG collection (a reduction of 15+ minutes in clinical testing time).",
+        "Designed the VLAAI deep neural network for decoding the speech envelope from EEG — the first decoding model shown to work across multiple datasets collected by different research groups, and fine-tunable to individual subjects, substantially outperforming prior subject-specific decoders. Developed in Tensorflow.",
+        "First to predict speech intelligibility from the EEG of unseen subjects in a non-linear classification paradigm, removing the need for extra subject-specific EEG collection (a reduction of 15+ minutes in clinical testing time). Developed in Tensorflow",
         "Conceived, collected, and released SparrKULee, a public dataset of 168 hours of speech-evoked EEG from 85 participants — larger than all comparable public datasets combined — now used as a training/benchmarking resource across the field.",
-        "Co-organized the ICASSP 2023 Auditory EEG Challenge (42 international teams) and the ICASSP 2024 Auditory EEG Challenge (166 international teams).",
-        "Co-supervised 7 completed MSc theses (2020-2022), 1 ongoing PhD student (Biomedical Sciences), 1 ongoing Medical Sciences student, 1 ongoing Audiology student, and ~11 job students assisting with EEG data collection.",
+        "Co-organized the ICASSP 2023 Auditory EEG Challenge (42 international teams) and the ICASSP 2024 Auditory EEG Challenge (166 international teams). Gained experience in large-scale dataset design, challenge organization, and open-science benchmarking.",
+        "Co-supervised 8 completed MSc theses (2020-2022) in Audiology, Medical Sciences, Computer Science and Master of AI.",
+        "Trained 11 job students to collect high quality EEG data.",
         "Awarded the PhD Quick Pitch Award (Neurotech Leuven, 2022) and the Best Impact Award (CogHear 2023) for organizing the ICASSP 2023 Grand Challenge.",
         "Wrote succesful FWO Phd fellowship grant proposal for 4 years (1S89620N, 2019)."
       ]
@@ -87,8 +89,11 @@
       "url": "exporl.gbiomed.kuleuven.be/eddy",
       "startDate": "2017-04-04",
       "endDate": "2018-08-01",
-      "summary": "Wrote software to track research subjects across studies at ExpORL.",
-      "highlights": []
+      "summary": "Full stack web app developer for the 'Eddy' project, a web-based platform for tracking research participants across studies in a GDPR-compliant manner.",
+      "highlights": [
+        "Full stack web development, including front-end (HTML/CSS/JS/Typescript) and back-end (Python/Django, MySQL) development.",
+        "Conducted multiple user experience (UX) tests to improve the usability of the platform."
+      ]
     },
     {
       "name": "KU Leuven",
@@ -97,7 +102,9 @@
       "startDate": "2017-10-01",
       "endDate": "2017-12-31",
       "summary": "Supervised lab sessions for the course 'Object-oriented programming and databases' (T2OGPD).",
-      "highlights": []
+      "highlights": [
+        "Coached students in object-oriented programming and database management, providing guidance and support during lab sessions."
+      ]
     }
   ],
   "education": [
@@ -110,8 +117,7 @@
       "endDate": "2023-12-04",
       "score": "",
       "courses": [
-        "Thesis: 'Deep neural networks as a model of speech perception'",
-        "Promotor: Prof. Tom Francart; Co-promotor: Prof. Hugo Van hamme"
+        "Thesis: 'Deep neural networks as a model of speech perception'. Promotor: Prof. Tom Francart; Co-promotor: Prof. Hugo Van hamme"
       ]
     },
     {
@@ -123,7 +129,9 @@
       "endDate": "2018",
       "score": "Magna cum laude",
       "courses": [
-        "Thesis: 'Detection of pathologies with machine learning'"
+        "Thesis: 'Detection of pathologies with machine learning'",
+        "Option Internet Computing: Focus on software development",
+        "Courses on Software development (Software design patterns, CI/CD, Docker, Agile, languages such as C/C++, Python, Javascript, Java Enterprise Edition), Digital and Analog Signal processing, Embedded systems."
       ]
     },
     {
@@ -134,7 +142,10 @@
       "startDate": "",
       "endDate": "2017",
       "score": "",
-      "courses": []
+      "courses": [
+        "Bachelor thesis: Developing a LoRa sensor node for low-power pipeline monitoring.",
+        "Courses on Software development (Software design patterns, CI/CD, Docker, languages such as C, Python, Java, PIC assembly), Digital and Analog Signal processing, Electronic circuit design, Embedded systems, FPGA programming."
+      ]
     }
   ],
   "awards": [
