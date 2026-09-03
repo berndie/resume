@@ -73,8 +73,8 @@
       "endDate": "2023-12-04",
       "summary": "Doctoral research using machine learning and deep learning to model speech processing and perception in the brain, for applications such as automated hearing diagnostics. Thesis: 'Deep neural networks as a model of speech perception' (promotor: Prof. Tom Francart; co-promotor: Prof. Hugo Van hamme).",
       "highlights": [
-        "Designed the VLAAI deep neural network for decoding the speech envelope from EEG — the first decoding model shown to work across multiple datasets collected by different research groups, and fine-tunable to individual subjects, substantially outperforming prior subject-specific decoders. Developed in Tensorflow.",
-        "First to predict speech intelligibility from the EEG of unseen subjects in a non-linear classification paradigm, removing the need for extra subject-specific EEG collection (a reduction of 15+ minutes in clinical testing time). Developed in Tensorflow",
+        "Designed the VLAAI deep neural network for decoding the speech envelope from EEG — the first decoding model shown to work across multiple datasets collected by different research groups, and fine-tunable to individual subjects, substantially outperforming prior subject-specific decoders. Developed in Tensorflow, trained a a HTCondor cluster.",
+        "First to predict speech intelligibility from the EEG of unseen subjects in a non-linear classification paradigm, removing the need for extra subject-specific EEG collection (a reduction of 15+ minutes in clinical testing time). Developed in Tensorflow, trained a a HTCondor cluster.",
         "Conceived, collected, and released SparrKULee, a public dataset of 168 hours of speech-evoked EEG from 85 participants — larger than all comparable public datasets combined — now used as a training/benchmarking resource across the field.",
         "Co-organized the ICASSP 2023 Auditory EEG Challenge (42 international teams) and the ICASSP 2024 Auditory EEG Challenge (166 international teams). Gained experience in large-scale dataset design, challenge organization, and open-science benchmarking.",
         "Co-supervised 8 completed MSc theses (2020-2022) in Audiology, Medical Sciences, Computer Science and Master of AI.",
@@ -131,7 +131,7 @@
       "courses": [
         "Thesis: 'Detection of pathologies with machine learning'",
         "Option Internet Computing: Focus on software development",
-        "Courses on Software development (Software design patterns, CI/CD, Docker, Agile, languages such as C/C++, Python, Javascript, Java Enterprise Edition), Digital and Analog Signal processing, Embedded systems."
+        "Courses on Software development (Software design patterns, CI/CD, Docker, Agile, Test driven development (TDD) & unit testing, languages such as C/C++, Python, Javascript, Java Enterprise Edition), Digital and Analog Signal processing, Embedded systems."
       ]
     },
     {
@@ -144,7 +144,7 @@
       "score": "",
       "courses": [
         "Bachelor thesis: Developing a LoRa sensor node for low-power pipeline monitoring.",
-        "Courses on Software development (Software design patterns, CI/CD, Docker, languages such as C, Python, Java, PIC assembly), Digital and Analog Signal processing, Electronic circuit design, Embedded systems, FPGA programming."
+        "Courses on Software development (Software design patterns, CI/CD, Docker, Test driven development (TDD) & unit testing, languages such as C, Python, Java, PIC assembly), Digital and Analog Signal processing, Electronic circuit design, Embedded systems, FPGA programming."
       ]
     }
   ],
@@ -406,7 +406,9 @@
             "CI/CD pipelines (Github Actions, Jenkins, Gitlab CI)",
             "Web development (HTML/CSS/JS/XML)",
             "Database design & management (SQL, PostgreSQL, MySQL, NoSQL)",
-            "Software architecture & design patterns"
+            "Software architecture & design patterns",
+            "Test driven development (TDD) & unit testing",
+            "Agile software development methodologies (Scrum)"
         ]
     }
   ],
